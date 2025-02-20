@@ -1,6 +1,6 @@
 body {
     font-family:'Times New Roman', Times, serif;
-    background-color: #c9c2c2;
+    background-color: #c1bdbd;
     text-align: center;
 }
 
@@ -10,7 +10,7 @@ h1 {
 
 p {
     font-size: 18px;
-    color: #333;
+    color: #1b1a1a;
 }
 
 a {
@@ -23,7 +23,7 @@ a {
 }
 
 a:hover {
-    background-color: #0056b3;
+    background-color: #0860be;
 }
 
 img {
@@ -33,7 +33,7 @@ img {
 button {
     padding: 10px 15px;
     font-size: 18px;
-    background-color: #40728a;
+    background-color: #53a7fa;
     color: white;
     border: none;
     cursor: pointer;
@@ -41,5 +41,5 @@ button {
 }
 
 button:hover {
-    background-color: #61a9b5;
+    background-color: #2f94a5;
 }
