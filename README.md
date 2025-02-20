@@ -15,6 +15,6 @@ Abre la terminal CMD o, Open git bash here con clik derecho dentro de alguna car
 git clone https://github.com/beacosta364/MyFirstPage.git
 
 
-2. ingresa a la carpeta clonada con: cd MiPrimeraPagina
+2. ingresa a la carpeta clonada con: cd MyFirstPage
 
 3.  Usa el sigiuiente comando para ingresar al editor de codigo Visual Studio Code:  code .
